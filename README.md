@@ -28,7 +28,7 @@ I’m transitioning from **Natural Sciences to Data Science**, combining my love
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inesmora29&show_icons=true&theme=tokyonight)  
 
 
 
