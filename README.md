@@ -14,7 +14,7 @@ I’m transitioning from **Natural Sciences to Data Science**, combining my love
 
 ## 🛠 **Tech Stack**
 - **Programming:** Python, SQL, R  
-- **ML & AI:** scikit-learn, TensorFlow, XGBoost  
+- **ML & AI:** scikit-learn, TensorFlow
 - **Data Analysis:** Pandas, NumPy, Seaborn  
 - **Databases:** MySQL, NoSQL 
 - **Tools:** Git, Docker
