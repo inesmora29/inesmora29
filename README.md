@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Inés Mora!  
+### 💻 Aspiring Data Scientist | 🔬 Bioinformatics & Biostatistics Graduate 
 
-<!--
-**inesmora29/inesmora29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m transitioning from **Natural Sciences to Data Science**, combining my love for **problem-solving and data analysis**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **What I’m Working On**
+- 🏡 **[Airbnb Price Prediction](https://github.com/your-repo)** → Analyzing trends & predicting prices  
+- 📰 **Fake News Detection** → Classifying real vs. fake news using NLP  
+- 🎬 **Movie Recommendation System** → Building a collaborative filtering model  
+
+---
+
+## 🛠 **Tech Stack**
+- **Programming:** Python, SQL, R  
+- **ML & AI:** scikit-learn, TensorFlow, XGBoost  
+- **Data Analysis:** Pandas, NumPy, Seaborn  
+- **Databases:** MySQL, NoSQL 
+- **Tools:** Git, Docker
+
+---
+
+## 📫 **How to Reach Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ines-mora)  
+📧 **Email:** inesmoragarcia@gmail.com  
+
+---
+
+## 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+
+
+
