@@ -6,7 +6,7 @@ I’m transitioning from **Natural Sciences to Data Science**, combining my love
 ---
 
 ## 🚀 **What I’m Working On**
-- 🩺 **[Basic Data Analysis using Diabetes data]([https://github.com/inesmora29/basic-data-analysis.git])** → Implementing a simple data analysis pipeline with R
+- 🩺 **[Basic Data Analysis using Diabetes data](https://github.com/inesmora29/basic-data-analysis.git)** → Implementing a simple data analysis pipeline with R
 - 📷 **Diabetic Retinopathy detection using ViTs** → 
 
 ---
