@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Inés Mora!  
-### 💻 Aspiring Data Scientist | 🔬 Bioinformatics & Biostatistics Graduate 
+### 💻 Aspiring Data Scientist | 🔬 M.Sc. Bioinformatics & Biostatistics
 
 I’m transitioning from **Natural Sciences to Data Science**, combining my love for **problem-solving and data analysis**.  
 
