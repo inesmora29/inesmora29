@@ -6,9 +6,8 @@ I’m transitioning from **Natural Sciences to Data Science**, combining my love
 ---
 
 ## 🚀 **What I’m Working On**
-- 🏡 **[Airbnb Price Prediction](https://github.com/your-repo)** → Analyzing trends & predicting prices  
-- 📰 **Fake News Detection** → Classifying real vs. fake news using NLP  
-- 🎬 **Movie Recommendation System** → Building a collaborative filtering model  
+- 🩺 **[Basic Data Analysis using Diabetes data](https://github.com/basic-data-analysis)** → Implementing a simple data analysis pipeline with R
+- 📷 **Diabetic Retinopathy detection using ViTs** → 
 
 ---
 
