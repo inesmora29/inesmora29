@@ -16,12 +16,12 @@ I’m transitioning from **Natural Sciences to Data Science**, combining my love
 
 ## 📫 **How to Reach Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ines-mora)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/insmora)
 📧 **Email:** inesmoragarcia@gmail.com  
+
 
 ---
 
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inesmora29&show_icons=true&theme=tokyonight)  
 
 
 
